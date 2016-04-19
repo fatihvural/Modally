@@ -79,6 +79,6 @@ Lisans
 
 MIT
 
-[Modally Anasayfa]: <https://github.com/ysoftaoglu>
+[Modally Anasayfa]: <http://ysoftaoglu.github.io/Modally>
 [Github Profilim]: <https://github.com/ysoftaoglu>
 [Modally Sayfası]: <https://github.com/ysoftaoglu/Modally>
