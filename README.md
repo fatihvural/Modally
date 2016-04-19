@@ -36,7 +36,7 @@ Gösterilen yere popup içeriğinizi yazın.
 
 ### İşte Bu Kadar Kolay :)
 
-### # Gelişmiş Özellikler
+### Gelişmiş Özellikler
 
 ### Background Ekleme
 
