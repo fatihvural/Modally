@@ -4,7 +4,7 @@
     display: none;
 }
 
-#mdly:checked + .mdly-overlay{
+input#mdly:checked + .mdly-overlay{
     display: none;
 }
 
@@ -54,11 +54,14 @@
 
 .mdly-c {
     background: white;
-    border-radius: 10px;
+    border-radius: 4px;
     box-sizing: border-box;
     display: inline-block;
     padding: 40px 25px 25px 25px;
     position: relative;
+    border-top: 40px solid #000;
+    margin:20px;
+    max-width:600px;
 }
 
 .mdly-c a {
@@ -68,14 +71,14 @@
 
 label.mdly-cls {
     background: #E60000;
-    border-radius: 3px;
+    border-radius: 2px;
     color: white;
     cursor: pointer;
     display: block;
     padding: 5px;
     position: absolute;
-    top:10px;
-    right:10px;
+    top: -33px;
+    right: 6px;
 }
 
 label.mdly-cls:hover {
