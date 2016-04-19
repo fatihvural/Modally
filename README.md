@@ -80,4 +80,4 @@ Lisans
 MIT
 
 [Github Profilim]: <https://github.com/ysoftaoglu>
-[Modally Sayfası]: <https://asdasd.com/u>
+[Modally Sayfası]: <https://github.com/ysoftaoglu/Modally>
