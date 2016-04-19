@@ -5,6 +5,12 @@ ile animasyonlu şık modallar yani sayfa açılışında popup bir pencere gös
 
 Kullanımı oldukça basittir.
 
+### Neden Kullanayım Ki
+ - Sadece 5 kb
+ - Gelişmiş animasyon seçenekleri mevcut
+ - Html ve Css tabanlı olduğu için herhangi bir ekstra yükleme gerektirmez
+ - Tüm tarayıcılarda çalışmaktadır
+
 ### 1. Adım
 Css dosyasını web sitenize dahil edin.
 
