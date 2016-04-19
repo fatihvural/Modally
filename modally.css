@@ -4,7 +4,7 @@
     display: none;
 }
 
-input#mdly:checked + .mdly-overlay{
+#mdly:checked + .mdly-overlay{
     display: none;
 }
 
