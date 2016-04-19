@@ -34,8 +34,6 @@ Gösterilen yere popup içeriğinizi yazın.
         </div>
     </div>
 
-### İşte Bu Kadar Kolay :)
-
 ### Gelişmiş Özellikler
 
 ### Background Ekleme
@@ -48,15 +46,15 @@ Gösterilen yere popup içeriğinizi yazın.
 
 ### Animasyon Ekleme
 
-     <div class="mdly-overlay fadein"></div> Kararma Efekti
-     <div class="mdly-overlay up"></div> Üstten Gelme Efekti
-     <div class="mdly-overlay down"></div> Alltan Gelme Efekti
-     <div class="mdly-overlay left"></div> Soldan Gelme Efekti
-     <div class="mdly-overlay right"></div> Sağdan Gelme Efekti
-     <div class="mdly-overlay scale"></div> Büyüme Efekti
-     <div class="mdly-overlay rotate"></div> Dönme Efekti
-     <div class="mdly-overlay shake-x"></div> X Ekseninde Titreme Efekti
-     <div class="mdly-overlay shake-y"></div> Y Ekseninde Titreme Efekti
+     <div class="mdly-overlay fadein b"></div> Kararma Efekti
+     <div class="mdly-overlay up b"></div> Üstten Gelme Efekti
+     <div class="mdly-overlay down b"></div> Alltan Gelme Efekti
+     <div class="mdly-overlay left b"></div> Soldan Gelme Efekti
+     <div class="mdly-overlay right b"></div> Sağdan Gelme Efekti
+     <div class="mdly-overlay scale b"></div> Büyüme Efekti
+     <div class="mdly-overlay rotate b"></div> Dönme Efekti
+     <div class="mdly-overlay shake-x b"></div> X Ekseninde Titreme Efekti
+     <div class="mdly-overlay shake-y b"></div> Y Ekseninde Titreme Efekti
 
 ### # Örnek Kullanımlar
     
