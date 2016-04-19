@@ -1,5 +1,7 @@
 # Modally
 
+[Modally Anasayfa]
+
 Modally javascript jquery vb. yüklü ve karmaşık eklentiler kurmadan sadece Html ve Css
 ile animasyonlu şık modallar yani sayfa açılışında popup bir pencere göstermeyi sağlar.
 
@@ -77,5 +79,6 @@ Lisans
 
 MIT
 
+[Modally Anasayfa]: <https://github.com/ysoftaoglu>
 [Github Profilim]: <https://github.com/ysoftaoglu>
 [Modally Sayfası]: <https://github.com/ysoftaoglu/Modally>
